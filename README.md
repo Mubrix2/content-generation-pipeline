@@ -6,8 +6,8 @@ A multi-step AI pipeline that generates a complete content package
 from a single topic. One input produces a blog post, three social 
 media captions, and a full email — all in consistent brand tone.
 
-**Live Demo:** [your-app.streamlit.app](https://your-app.streamlit.app)  
-**API Docs:** [your-api.onrender.com/docs](https://your-api.onrender.com/docs)
+**Live Demo:** [content-generation-pipeline.streamlit.app](https://content-generation-pipeline-kesqucmdq6eyd6wnnbqf7c.streamlit.app)  
+**API Docs:** [content-generation-pipeline.onrender.com/docs](https://content-generation-pipeline.onrender.com/docs)
 
 ---
 
