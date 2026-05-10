@@ -11,6 +11,12 @@ media captions, and a full email — all in consistent brand tone.
 
 ---
 
+## Demo
+
+![Demo](demo.gif)
+
+---
+
 ## The Pipeline
 
 ```
